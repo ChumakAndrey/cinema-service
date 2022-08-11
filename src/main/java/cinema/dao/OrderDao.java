@@ -1,7 +1,7 @@
 package cinema.dao;
 
-import java.util.List;
 import cinema.model.Order;
+import java.util.List;
 import cinema.model.User;
 
 public interface OrderDao {
